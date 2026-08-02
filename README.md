@@ -25,6 +25,7 @@ MBA candidate at Yale SOM · Former Co-Founder & COO of Aroleap (Shark Tank Indi
 - Currently: MBA candidate at **Yale SOM**
 - I am using time at school to explore entirely new professional spaces (Consulting, VC, etc.) and tinker with AI (as a non-technical person).
 - I am most excited about the exponential value AI will unlock in traditional / 'boring' businesses, ones where people rarely think about AI when they talk about such businesses
+- 
 - Off the keyboard: Ultramarathoner
 
 ### Career

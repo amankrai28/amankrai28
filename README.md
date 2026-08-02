@@ -21,24 +21,25 @@ MBA candidate at Yale SOM · Former Co-Founder & COO of Aroleap (Shark Tank Indi
 
 ### About
 
-- Operator: scaled **Aroleap** from zero to **$1M+ revenue** on **$3.5M** of seed funding.
-- Now I ship working software with AI as a non-engineer, and I think that is how the next wave of operators will build.
+- Operator: scaled my venture **Aroleap** from zero to **$1M+ annual revenue**; raised **$3.5M** of seed funding.
 - Currently: MBA candidate at **Yale SOM**
+- I am using time at school to explore entirely new professional spaces (Consulting, VC, etc.) and tinker with AI (as a non-technical person).
+- I am most excited about the exponential value AI will unlock in traditional / 'boring' businesses, ones where people rarely think about AI when they talk about such businesses
 - Off the keyboard: Ultramarathoner
 
 ### Career
 
 **Consultant, Boston Consulting Group** · Summer 2026
-- *The company:* global management consulting firm; I sit in its Principal Investors &amp; Private Equity practice.
+- *The company:* global management consulting firm ($14B+ revenue); I worked in its Principal Investors &amp; Private Equity practice.
 - *What I did:* ran commercial due diligence for private-equity clients across buy- and sell-side technology deals: market sizing and triangulation, expert and customer interviews, and an AI-risk module assessing generative-AI disruption risk, to test each investment thesis.
 
 **Special Projects (Fund of funds), RTP Global** · 2026
 - *The company:* $1B early-stage technology venture fund investing from Seed to Series A.
-- *What I did:* built an AI deal-sourcing platform end to end with Claude Code ([case study](https://github.com/amankrai28/rtp-deal-sourcing-case-study)) and ran market research and analytics to surface high-growth startups for the investment team.
+- *What I did:* built an AI deal-sourcing platform end-to-end with Claude Code ([case study](https://github.com/amankrai28/rtp-deal-sourcing-case-study)) and ran market research and analytics to surface high-growth startups for the investment team.
 
 **Co-Founder &amp; Chief Operating Officer, Aroleap** · 2021–2025
-- *The company:* patented strength-training device with a companion app, featured on Shark Tank India.
-- *What I did:* scaled from zero to $1M+ annual revenue, raised $3.5M in seed funding; built the 20-person team, GTM engine, product roadmap, and service operations across 25+ cities.
+- *The company:* India's first connected fitness startup; patented strength-training device with a companion app, featured on Shark Tank India. [Website](https://www.aroleap.com)
+- *What I did:* Led all commercial and GTM efforts. Scaled from zero to $1M+ annual revenue ($2M lifetime), raised $3.5M in seed funding; built the 20-person team and scaled service operations across 25+ cities.
 
 **Capacity Expansion Lead, Unilever** · 2018–2021
 - *The company:* $5B consumer-health and foods manufacturer (formerly GSK Consumer Healthcare).
@@ -52,6 +53,7 @@ MBA candidate at Yale SOM · Former Co-Founder & COO of Aroleap (Shark Tank Indi
 - **[LinkedIn AI Detector](https://github.com/amankrai28/linkedin-ai-detector)** — a Chrome extension that overlays an AI-likelihood score on every LinkedIn post. Runs a RoBERTa model in-browser with transformers.js. Local-first, MIT. [Chrome webstore link](https://chromewebstore.google.com/detail/ophhflkkenknlohgpkdclpklbggfonli?utm_source=item-share-cb).
 - **[Harborview](https://github.com/amankrai28/harborview)** — live AIS ship traffic over Boston Harbor, framed to the view from Pier 4. [Live demo](https://harborview-tau.vercel.app/).
 - **[Chronic Cardio train](https://github.com/amankrai28/chronic-cardio-train)** — an open-source training-plan builder for endurance athletes. [Live demo](https://train.chroniccardio.com/).
+- A simple HTML web-app shared with friends and families to guess our daughter's arrival date [Link](https://baby-riaaman-arrival-pool.vercel.app/)
 - **... and many unfinished projects :)**
 <!--
 ### GitHub stats (enterprise account usage not tracked here)

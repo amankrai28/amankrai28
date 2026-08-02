@@ -22,11 +22,11 @@ MBA candidate at Yale SOM · Former Co-Founder & COO of Aroleap (Shark Tank Indi
 ### About
 
 - Operator: scaled my venture **Aroleap** from zero to **$1M+ annual revenue**; raised **$3.5M** of seed funding.
-- Currently: MBA candidate at **Yale SOM**
+- Currently: MBA candidate at **Yale SOM** (Graduating- May 2027).
 - I am using time at school to explore entirely new professional spaces (Consulting, VC, etc.) and tinker with AI (as a non-technical person).
-- I am most excited about the exponential value AI will unlock in traditional / 'boring' businesses, ones where people rarely think about AI when they talk about such businesses
-- 
-- Off the keyboard: Ultramarathoner
+- I am most excited about the exponential value AI will unlock in traditional / 'boring' businesses, ones where people rarely think about AI when they talk about such businesses.
+- Engineer from Indian Institute of Technology, Delhi (2018).
+- Off the keyboard, I run Ultramarathons.
 
 ### Career
 

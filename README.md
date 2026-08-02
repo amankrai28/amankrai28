@@ -52,7 +52,7 @@ MBA candidate at Yale SOM · Former Co-Founder & COO of Aroleap (Shark Tank Indi
 - **[Harborview](https://github.com/amankrai28/harborview)** — live AIS ship traffic over Boston Harbor, framed to the view from Pier 4. [Live demo](https://harborview-tau.vercel.app/).
 - **[Chronic Cardio](https://github.com/amankrai28/chronic-cardio-train)** — a training-plan builder for endurance athletes. [Live demo](https://train.chroniccardio.com/).
 - **... and many unfinished projects :)**
-
+<!--
 ### GitHub stats (enterprise account usage not tracked here)
 
 <div align="center">
@@ -64,7 +64,7 @@ MBA candidate at Yale SOM · Former Co-Founder & COO of Aroleap (Shark Tank Indi
 
 </div>
 
-<!--
+
   MAINTENANCE NOTES
   - The two stats cards run on YOUR OWN instance (Vercel project: aman-readme-stats,
     https://aman-readme-stats.vercel.app), so they no longer break when the shared public

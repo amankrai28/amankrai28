@@ -1,7 +1,7 @@
 <!--
-  This is your GitHub PROFILE README.
-  It renders at the top of https://github.com/amankrai28 from the repo  amankrai28/amankrai28  (file: README.md).
-  To publish an update: edit README.md in that repo and paste this file's contents.
+This is your GitHub PROFILE README.
+It renders at the top of https://github.com/amankrai28 from the repo amankrai28/amankrai28 (file: README.md).
+To publish an update: edit README.md in that repo and paste this file's contents.
 -->
 
 <div align="center">
@@ -48,9 +48,10 @@ MBA candidate at Yale SOM · Former Co-Founder & COO of Aroleap (Shark Tank Indi
 
 - **[Be The Shark](https://github.com/amankrai28/be-the-shark)** — a Shark Tank India deal simulator: read a real anonymized pitch, make your call, get scored against what actually happened in the tank. 784 source-verified pitches across all five seasons, Wordle-style daily challenge with streaks, a community leaderboard, and shareable score cards. [Live demo](https://be-the-shark.vercel.app).
 - **[AI deal-sourcing platform](https://github.com/amankrai28/rtp-deal-sourcing-case-study)** (RTP Global · internal) — unified four siloed data systems into one AI-queryable database with automated pipelines, 0–100 signal scoring, and plain-English (RAG) search. Built solo with Claude Code; code is private, sanitized case study at the link.
+- **[Chronic Cardio store](https://github.com/amankrai28/chronic-cardio-store-case-study)** — a live Shopify storefront for the real-food endurance fuel brand I started in Yale SOM's venture-launch course (Innovator). Migrated from Vercel to a custom Horizon theme in a weekend with Shopify's AI toolkit + Claude Code; theme code is store-private, case study at the link. [Live store](https://chroniccardio.com).
 - **[LinkedIn AI Detector](https://github.com/amankrai28/linkedin-ai-detector)** — a Chrome extension that overlays an AI-likelihood score on every LinkedIn post. Runs a RoBERTa model in-browser with transformers.js. Local-first, MIT. [Chrome webstore link](https://chromewebstore.google.com/detail/ophhflkkenknlohgpkdclpklbggfonli?utm_source=item-share-cb).
 - **[Harborview](https://github.com/amankrai28/harborview)** — live AIS ship traffic over Boston Harbor, framed to the view from Pier 4. [Live demo](https://harborview-tau.vercel.app/).
-- **[Chronic Cardio](https://github.com/amankrai28/chronic-cardio-train)** — a training-plan builder for endurance athletes. [Live demo](https://train.chroniccardio.com/).
+- **[Chronic Cardio train](https://github.com/amankrai28/chronic-cardio-train)** — an open-source training-plan builder for endurance athletes. [Live demo](https://train.chroniccardio.com/).
 - **... and many unfinished projects :)**
 <!--
 ### GitHub stats (enterprise account usage not tracked here)
@@ -64,13 +65,12 @@ MBA candidate at Yale SOM · Former Co-Founder & COO of Aroleap (Shark Tank Indi
 
 </div>
 
-
-  MAINTENANCE NOTES
-  - The two stats cards run on YOUR OWN instance (Vercel project: aman-readme-stats,
-    https://aman-readme-stats.vercel.app), so they no longer break when the shared public
-    instance is rate-limited. They render once the PAT_1 env var is set on that project
-    (see PUBLISH_CHECKLIST.md). count_private=true then includes private-repo commits.
-  - Private work (e.g. RTP) shows in the contribution graph + streak after enabling
-    GitHub Settings > Public profile > "Include private contributions on my profile".
-  - The instance also serves repo pin cards: /api/pin?username=amankrai28&repo=<name>
+MAINTENANCE NOTES
+- The two stats cards run on YOUR OWN instance (Vercel project: aman-readme-stats,
+https://aman-readme-stats.vercel.app), so they no longer break when the shared public
+instance is rate-limited. They render once the PAT_1 env var is set on that project
+(see PUBLISH_CHECKLIST.md). count_private=true then includes private-repo commits.
+- Private work (e.g. RTP) shows in the contribution graph + streak after enabling
+GitHub Settings > Public profile > "Include private contributions on my profile".
+- The instance also serves repo pin cards: /api/pin?username=amankrai28&repo=<name>
 -->

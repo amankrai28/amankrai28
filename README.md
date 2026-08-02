@@ -31,7 +31,7 @@ MBA candidate at Yale SOM · Former Co-Founder & COO of Aroleap (Shark Tank Indi
 
 **Consultant, Boston Consulting Group** · Summer 2026
 - *The company:* global management consulting firm ($14B+ revenue); I worked in its Principal Investors &amp; Private Equity practice.
-- *What I did:* ran commercial due diligence for private-equity clients across buy- and sell-side technology deals: market sizing and triangulation, expert and customer interviews, and an AI-risk module assessing generative-AI disruption risk, to test each investment thesis.
+- *What I did:* ran commercial due diligence for private-equity clients across buy- and sell-side technology deals: market sizing and triangulation, expert and customer interviews; learnt that AI is a central value creation theme for all clients.
 
 **Special Projects (Fund of funds), RTP Global** · 2026
 - *The company:* $1B early-stage technology venture fund investing from Seed to Series A.

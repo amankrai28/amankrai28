@@ -59,6 +59,8 @@ MBA candidate at Yale SOM · Former Co-Founder & COO of Aroleap (Shark Tank Indi
 - **[Harborview](https://github.com/amankrai28/harborview)** — live AIS ship traffic over Boston Harbor, framed to the view from Pier 4. [Live demo](https://harborview-tau.vercel.app/).
 - **[Chronic Cardio train](https://github.com/amankrai28/chronic-cardio-train)** — an open-source training-plan builder for endurance athletes. [Live demo](https://train.chroniccardio.com/).
 - A simple HTML web-app shared with friends and families to guess our daughter's arrival date [Link](https://baby-riaaman-arrival-pool.vercel.app/)
+- **[BT White Noise](https://github.com/amankrai28/bt-white-noise)**: a native Mac utility that plays white, pink, or brown noise through a dedicated Bluetooth speaker while keeping other Mac audio on the built-in speakers.
+- **[iPhone Duo pickup watch](https://github.com/amankrai28/iphone-pickup-watch)**: built to find an iPhone Duo to gift my wife. Tracks pickup availability and sends stock alerts; checkout stays manual.
 - **... and many unfinished projects :)**
 <!--
 ### GitHub stats (enterprise account usage not tracked here)
